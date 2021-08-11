@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivabhai319
 - 👀 I’m interested in Developing Good Projects,Good Applications Learn and Use it 
 - 🌱 I’m currently learning Deeplearning ,Web Development 
-- 💞️ I’m looking to collaborate on Git Hub,Open Source Related,Good Smart Based Applications
+- 💞️ I’m looking to collaborate on Git Hub(Pull Request Stuff),Open Source Related,Good Smart Based Applications
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/shiv2019/
 
 <!---
